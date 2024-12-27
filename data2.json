@@ -1,0 +1,12 @@
+{
+    "modal": {
+      "showModal": true,
+     
+      "image": {
+        "src": "https://www.minedu.gob.pe/colegios-de-alto-rendimiento/imagenes/banners/COMUNICADO PUA2025_Page_1.png",
+        "alt": "Imagen de ejemplo",
+        "link": "https://example.com"
+      },
+      "buttonText": "Cerrar"
+    }
+  }
