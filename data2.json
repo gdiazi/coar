@@ -1,11 +1,11 @@
 {
     "modal": {
-      "showModal": false,
+      "showModal": true,
      
       "image": {
-        "src": "https://www.minedu.gob.pe/colegios-de-alto-rendimiento/imagenes/banners/COMUNICADO PUA2025_Page_1.png",
-        "alt": "Imagen de ejemplo",
-        "link": "https://example.com"
+        "src": "https://drive.google.com/file/d/1nwOlmsOEuYXaPOUTFt1a-ahjc22huGAk/view",
+        "alt": "Bases de COAR",
+        "link": "#"
       },
       "buttonText": "Cerrar"
     }
