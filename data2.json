@@ -1,11 +1,11 @@
 {
     "modal": {
-      "showModal": false,
+      "showModal": true,
      
       "image": {
-        "src": "#",
+        "src": "https://www.minedu.gob.pe/colegios-de-alto-rendimiento/imagenes/home/im%C3%A1genes/2024/comnicado_web_pua_base.png",
         "alt": "Bases de COAR",
-        "link": "#"
+        "link": "https://www.minedu.gob.pe/colegios-de-alto-rendimiento/pdf/2024/bases-pua/20241228_85610_RVM_N%C2%B0_154-2024-MINEDU.pdf"
       },
       "buttonText": "Cerrar"
     }
